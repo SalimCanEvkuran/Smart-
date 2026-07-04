@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gemini Harita Asistanı</string>
+    <string name="welcome_title">Merhaba!</string>
+    <string name="welcome_subtitle">Size nasıl yardımcı olabilirim?</string>
+    <string name="message_placeholder">Mesajınızı yazın…</string>
+    <string name="start_navigation">Yol Tarifi Başla</string>
+</resources>
