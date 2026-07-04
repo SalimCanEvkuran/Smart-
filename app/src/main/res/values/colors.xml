@@ -1,0 +1,11 @@
+<resources>
+    <color name="background_dark">#0B0E14</color>
+    <color name="surface_dark">#151923</color>
+    <color name="surface_variant">#1E2330</color>
+    <color name="accent_blue">#4C7CF3</color>
+    <color name="accent_purple">#8B6CF0</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9AA3B5</color>
+    <color name="pin_red">#E4483C</color>
+    <color name="status_green">#3ECF6E</color>
+</resources>
